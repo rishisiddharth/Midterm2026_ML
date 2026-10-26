@@ -1,0 +1,36 @@
+state,abbr,region,pvi_d,incumbent_party,incumbent_status,challenger,challenger_party,rep,challenger_adj,fpo_avg,ddhq_p,kalshi_p,note
+Alabama,AL,South,-15,R,open,Everett Wess,D,Barry Moore,,,,,Tuberville running for governor
+Alaska,AK,West,-6,R,elected,Mary Peltola,D,Dan Sullivan,,2.0,0.61,0.76,Ranked-choice general; a second Dan Sullivan is on the ballot
+Arkansas,AR,South,-15,R,elected,Hallie Shoffner,D,Tom Cotton,,,,,
+Colorado,CO,West,6,D,elected,John Hickenlooper,D,Mark Baisley,,,,,
+Delaware,DE,South,8,D,elected,Chris Coons,D,Republican nominee,,,,,
+Florida,FL,South,-5,R,appointed,Angie Nixon,D,Ashley Moody,,-5.8,0.22,0.10,Special election for Rubio's former seat
+Georgia,GA,South,-1,D,elected,Jon Ossoff,D,Mike Collins,,8.5,0.86,0.95,Runoff Dec 1 if no one passes 50%
+Idaho,ID,West,-18,R,elected,Todd Achilles,I,Jim Risch,,,,,No Democrat on the ballot
+Illinois,IL,Midwest,6,D,open,Juliana Stratton,D,Don Tracy,,,,,Durbin retiring
+Iowa,IA,Midwest,-6,R,open,Josh Turek,D,Ashley Hinson,,0.5,0.55,0.42,Ernst retiring
+Kansas,KS,Midwest,-8,R,elected,Adam Hamilton,D,Roger Marshall,,1.3,0.35,0.39,
+Kentucky,KY,South,-15,R,open,Charles Booker,D,Andy Barr,,,,,McConnell retiring
+Louisiana,LA,South,-11,R,open,Jamie Davis,D,Julia Letlow,,,0.11,0.06,Cassidy lost renomination; closed primaries this year
+Maine,ME,Northeast,4,R,elected,Troy Jackson,D,Susan Collins,,2.1,0.56,0.66,Ranked-choice general; Jackson replaced Platner in July
+Massachusetts,MA,Northeast,14,D,elected,Ed Markey,D,John Deaton,,,,,
+Michigan,MI,Midwest,0,D,open,Abdul El-Sayed,D,Mike Rogers,,3.1,0.68,0.70,Peters retiring
+Minnesota,MN,Midwest,3,D,open,Peggy Flanagan,D,Michele Tafoya,,3.8,0.81,0.86,Smith retiring
+Mississippi,MS,South,-11,R,elected,Scott Colom,D,Cindy Hyde-Smith,,,0.09,0.10,No legitimate poll since mid-August; runoff if no majority
+Montana,MT,West,-10,R,open,Seth Bodnar,I,Kurt Alme,-17,-12.1,0.11,0.08,Three-way race; Democrat Alani Bankhead polls about 17% and splits the anti-Alme vote
+Nebraska,NE,Midwest,-10,R,elected,Dan Osborn,I,Pete Ricketts,12,-0.9,0.21,0.25,No Democrat; Osborn ran far ahead of the state's lean in 2024
+New Hampshire,NH,Northeast,2,D,open,Chris Pappas,D,John E. Sununu,,6.9,0.84,0.90,Shaheen retiring
+New Jersey,NJ,Northeast,4,D,elected,Cory Booker,D,Justin Murphy,,,,,
+New Mexico,NM,West,4,D,elected,Ben Ray Lujan,D,Larry Marker (write-in),,,,,
+North Carolina,NC,South,-1,R,open,Roy Cooper,D,Michael Whatley,,10.7,0.86,0.96,Tillis retiring
+Ohio,OH,Midwest,-5,R,appointed,Sherrod Brown,D,Jon Husted,,4.2,,0.66,Special election for Vance's former seat
+Oklahoma,OK,South,-17,R,open,N'Kiyla Jasmine Thomas,D,Kevin Hern,,,,,Appointed incumbent not running
+Oregon,OR,West,8,D,elected,Jeff Merkley,D,David Brock Smith,,,,,
+Rhode Island,RI,Northeast,8,D,elected,Jack Reed,D,Raymond McKay,,,,,
+South Carolina,SC,South,-8,R,appointed,Annie Andrews,D,Darline Graham,,-1.7,0.30,0.20,Darline Graham appointed after Lindsey Graham's death in July
+South Dakota,SD,Midwest,-15,R,elected,Brian Bengs,I,Mike Rounds,,,0.04,0.06,No Democrat; independent challenger
+Tennessee,TN,South,-14,R,elected,Marquita Bradshaw,D,Bill Hagerty,,,,,
+Texas,TX,South,-6,R,open,James Talarico,D,Ken Paxton,,2.5,,0.68,Paxton beat Cornyn in the runoff
+Virginia,VA,South,3,D,elected,Mark Warner,D,Bert Mizusawa,,,,,
+West Virginia,WV,South,-21,R,elected,Rachel Fetty Anderson,D,Shelley Moore Capito,,,,,
+Wyoming,WY,West,-23,R,open,James W. Byrd,D,Harriet Hageman,,,,,Lummis retiring

@@ -1,0 +1,170 @@
+{
+  "n_races": 238,
+  "tau": 1.0,
+  "summary": [
+    {
+      "method": "No correction",
+      "brier": 0.0573,
+      "correct": 0.9322
+    },
+    {
+      "method": "Shrunk average of earlier cycles",
+      "brier": 0.0573,
+      "correct": 0.9322
+    },
+    {
+      "method": "Full average of all other cycles (hindsight)",
+      "brier": 0.0596,
+      "correct": 0.9153
+    }
+  ],
+  "by_cycle": [
+    {
+      "cycle": 2012,
+      "method": "No correction",
+      "bias": 0.0,
+      "brier": 0.0739,
+      "correct": 0.9091
+    },
+    {
+      "cycle": 2012,
+      "method": "Shrunk average of earlier cycles",
+      "bias": 0.0,
+      "brier": 0.0739,
+      "correct": 0.9091
+    },
+    {
+      "cycle": 2012,
+      "method": "Full average of all other cycles (hindsight)",
+      "bias": -3.09,
+      "brier": 0.0987,
+      "correct": 0.8182
+    },
+    {
+      "cycle": 2014,
+      "method": "No correction",
+      "bias": 0.0,
+      "brier": 0.0482,
+      "correct": 0.9412
+    },
+    {
+      "cycle": 2014,
+      "method": "Shrunk average of earlier cycles",
+      "bias": 0.0,
+      "brier": 0.0482,
+      "correct": 0.9412
+    },
+    {
+      "cycle": 2014,
+      "method": "Full average of all other cycles (hindsight)",
+      "bias": -1.75,
+      "brier": 0.0426,
+      "correct": 0.9706
+    },
+    {
+      "cycle": 2016,
+      "method": "No correction",
+      "bias": 0.0,
+      "brier": 0.0623,
+      "correct": 0.9091
+    },
+    {
+      "cycle": 2016,
+      "method": "Shrunk average of earlier cycles",
+      "bias": -0.04,
+      "brier": 0.0622,
+      "correct": 0.9091
+    },
+    {
+      "cycle": 2016,
+      "method": "Full average of all other cycles (hindsight)",
+      "bias": -2.03,
+      "brier": 0.0566,
+      "correct": 0.9091
+    },
+    {
+      "cycle": 2018,
+      "method": "No correction",
+      "bias": 0.0,
+      "brier": 0.0584,
+      "correct": 0.9412
+    },
+    {
+      "cycle": 2018,
+      "method": "Shrunk average of earlier cycles",
+      "bias": -0.22,
+      "brier": 0.0582,
+      "correct": 0.9412
+    },
+    {
+      "cycle": 2018,
+      "method": "Full average of all other cycles (hindsight)",
+      "bias": -2.15,
+      "brier": 0.0585,
+      "correct": 0.9118
+    },
+    {
+      "cycle": 2020,
+      "method": "No correction",
+      "bias": 0.0,
+      "brier": 0.0681,
+      "correct": 0.8824
+    },
+    {
+      "cycle": 2020,
+      "method": "Shrunk average of earlier cycles",
+      "bias": -0.43,
+      "brier": 0.0666,
+      "correct": 0.8824
+    },
+    {
+      "cycle": 2020,
+      "method": "Full average of all other cycles (hindsight)",
+      "bias": -1.73,
+      "brier": 0.0631,
+      "correct": 0.9118
+    },
+    {
+      "cycle": 2022,
+      "method": "No correction",
+      "bias": 0.0,
+      "brier": 0.0425,
+      "correct": 0.9714
+    },
+    {
+      "cycle": 2022,
+      "method": "Shrunk average of earlier cycles",
+      "bias": -0.74,
+      "brier": 0.0443,
+      "correct": 0.9714
+    },
+    {
+      "cycle": 2022,
+      "method": "Full average of all other cycles (hindsight)",
+      "bias": -2.41,
+      "brier": 0.0498,
+      "correct": 0.9143
+    },
+    {
+      "cycle": 2024,
+      "method": "No correction",
+      "bias": 0.0,
+      "brier": 0.048,
+      "correct": 0.9714
+    },
+    {
+      "cycle": 2024,
+      "method": "Shrunk average of earlier cycles",
+      "bias": -0.83,
+      "brier": 0.0475,
+      "correct": 0.9714
+    },
+    {
+      "cycle": 2024,
+      "method": "Full average of all other cycles (hindsight)",
+      "bias": -2.12,
+      "brier": 0.0477,
+      "correct": 0.9714
+    }
+  ]
+}

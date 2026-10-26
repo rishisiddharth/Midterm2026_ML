@@ -1,0 +1,40 @@
+{
+  "source": "fpo_backtests_2012_2024.csv",
+  "days_out": 15,
+  "chambers": {
+    "Senate": {
+      "n_races": 149,
+      "national_error_by_cycle": {
+        "2012": 3.26,
+        "2014": -4.79,
+        "2016": -3.1,
+        "2018": -2.37,
+        "2020": -4.91,
+        "2022": -0.78,
+        "2024": -2.57
+      },
+      "national_error_mean": -2.18,
+      "national_error_rms": 3.38,
+      "race_residual_sd": 4.29,
+      "benchmark_brier": 0.0572,
+      "benchmark_accuracy": 0.933
+    },
+    "House": {
+      "n_races": 1316,
+      "national_error_by_cycle": {
+        "2012": 0.67,
+        "2014": -3.73,
+        "2016": -7.17,
+        "2018": 1.15,
+        "2020": -3.64,
+        "2022": 1.67,
+        "2024": -1.04
+      },
+      "national_error_mean": -1.73,
+      "national_error_rms": 3.47,
+      "race_residual_sd": 6.09,
+      "benchmark_brier": 0.0314,
+      "benchmark_accuracy": 0.962
+    }
+  }
+}
